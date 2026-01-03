@@ -2,6 +2,6 @@ public class Hello
 {
     public static void main(String[] args) 
     {
-        System.o("Hello, world! From: Java :]]]]]]]]]]] hi");
+        System.out.print("Hello, world! From: Java :]]]]]]]]]]] hi");
     }
 }
